@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DevOps<br>💬 Ask me about NextJs,ReactJs,Prisma,JavaScript<br>⚡ Fun fact Some people collect stamps, I collect side projects I may or may not finish. 🚀👨‍💻
+🌱 I’m currently learning DevOps<br>💬 Ask me about NextJs,ReactJs,Prisma,JavaScript<br>⚡ Fun fact Some people collect stamps, I collect side projects I may or may not finish. 🚀👨‍💻
 
 
 ## 🌐 Socials:
