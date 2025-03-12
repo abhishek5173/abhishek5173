@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [Abhishek Kumar](https://abhishekkdev.vercel.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15oT-RYrS2MN7qVY11BMmYeTgSe3lxOm7/view?usp=sharing](https://drive.google.com/file/d/15oT-RYrS2MN7qVY11BMmYeTgSe3lxOm7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ixg4SOyApSc1_h9wNaEBf8etb-3uvAyo/view?usp=sharing)
 
 
 
