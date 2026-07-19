@@ -67,9 +67,9 @@ Document management and collaboration platform with secure sharing, version hist
 
 ### 📊 AnalytX
 
-Chrome Extension for AI-powered social media profile analysis and creator insights.
+A chart-based search engine that transforms search queries into interactive visualizations, making complex data easier to explore, compare, and understand.
 
-**Tech:** React • TypeScript • Chrome Extensions • Node.js
+**Tech:** React • TypeScript • Chart.js • FastAPI
 
 ---
 
