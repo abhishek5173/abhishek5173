@@ -24,11 +24,6 @@ Passionate about clean UI, performance optimization, and solving real-world prob
 
 # 🚀 About Me
 
-I'm a Software Development Engineer passionate about building performant web and mobile applications that solve real-world problems.
-
-I enjoy turning ideas into polished products using modern JavaScript technologies, with a strong focus on user experience, scalability, and clean architecture.
-
-### Currently
 
 - 💼 Working as a **Software Development Engineer**
 - 🤖 Currently exploring AI integrations and building intelligent applications.
@@ -36,65 +31,7 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 - 🏗️ Deepening my understanding of System Design and scalable backend architecture
 - 🔍 Constantly improving my understanding of **System Design** and backend architecture
 
-### I enjoy working with
-
-- ⚛️ React, Next.js & TypeScript
-- 📱 React Native
-- 🚀 Node.js, Express & Prisma
-- 🛢 PostgreSQL & MongoDB
-- ☁️ REST APIs & Cloud Infrastructure
-
 > I believe great software is where performance, clean design, and great user experience come together.
----
-
-# 🚀 Featured Projects
-
-### 🌍 Travelogue
-
-AI-powered travel planning platform featuring smart itineraries, trip collaboration, expense management, offline support, and real-time updates.
-
-**Tech:** Next.js • React Native • Node.js • PostgreSQL • AI
-
----
-
-### 📄 DocSync
-
-Document management and collaboration platform with secure sharing, version history, and real-time collaboration.
-
-**Tech:** Next.js • Node.js • Prisma • PostgreSQL
-
----
-
-### 📊 AnalytX
-
-A chart-based search engine that transforms search queries into interactive visualizations, making complex data easier to explore, compare, and understand.
-
-**Tech:** React • TypeScript • Chart.js • FastAPI
-
----
-
-### 🤖 Aced — AI Interview Prep
-
-AI interview preparation platform with mock interviews, resume analysis, personalized questions, and detailed feedback.
-
-**Tech:** Next.js • TypeScript • AI
-
----
-
-### ⚡ Mernify CLI
-
-CLI tool for bootstrapping production-ready MERN applications.
-
-**Tech:** Node.js • CLI • JavaScript
-
----
-
-### 📍 AI Hyperlocal Guide
-
-Gesture-powered AI voice navigation assistant built for React Native.
-
-**Tech:** React Native • FastAPI • Python
-
 ---
 
 # 🛠 Tech Stack
