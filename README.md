@@ -47,6 +47,56 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 > I believe great software is where performance, clean design, and great user experience come together.
 ---
 
+# 🚀 Featured Projects
+
+### 🌍 Travelogue
+
+AI-powered travel planning platform featuring smart itineraries, trip collaboration, expense management, offline support, and real-time updates.
+
+**Tech:** Next.js • React Native • Node.js • PostgreSQL • AI
+
+---
+
+### 📄 DocSync
+
+Document management and collaboration platform with secure sharing, version history, and real-time collaboration.
+
+**Tech:** Next.js • Node.js • Prisma • PostgreSQL
+
+---
+
+### 📊 AnalytX
+
+Chrome Extension for AI-powered social media profile analysis and creator insights.
+
+**Tech:** React • TypeScript • Chrome Extensions • Node.js
+
+---
+
+### 🤖 Aced — AI Interview Prep
+
+AI interview preparation platform with mock interviews, resume analysis, personalized questions, and detailed feedback.
+
+**Tech:** Next.js • TypeScript • AI
+
+---
+
+### ⚡ Mernify CLI
+
+CLI tool for bootstrapping production-ready MERN applications.
+
+**Tech:** Node.js • CLI • JavaScript
+
+---
+
+### 📍 AI Hyperlocal Guide
+
+Gesture-powered AI voice navigation assistant built for React Native.
+
+**Tech:** React Native • FastAPI • Python
+
+---
+
 # 🛠 Tech Stack
 
 ### 🎨 Frontend
@@ -75,6 +125,8 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
