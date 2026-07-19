@@ -22,51 +22,29 @@ Passionate about clean UI, performance optimization, and solving real-world prob
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```javascript
-const abhishek = {
-    role: "Software Development Engineer",
+I'm a Software Development Engineer passionate about building performant web and mobile applications that solve real-world problems.
 
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "React Native",
-        "Node.js"
-    ],
+I enjoy turning ideas into polished products using modern JavaScript technologies, with a strong focus on user experience, scalability, and clean architecture.
 
-    architecture: [
-        "REST APIs",
-        "JWT Authentication",
-        "Microservices",
-        "SSR",
-        "System Design"
-    ],
+### Currently
 
-    databases: [
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL"
-    ],
+- 💼 Working as a **Software Development Engineer**
+- 🌱 Currently exploring AI integrations and building intelligent applications.
+- 📱 Building **React Native** applications
+- ⚡ Exploring **AI-powered products & intelligent user experiences**
+- 🔍 Constantly improving my understanding of **System Design** and backend architecture
 
-    cloud: [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "Vercel"
-    ],
+### I enjoy working with
 
-    currentlyLearning: [
-        "DevOps",
-        "CI/CD",
-        "Cloud Infrastructure"
-    ],
+- ⚛️ React, Next.js & TypeScript
+- 📱 React Native
+- 🚀 Node.js, Express & Prisma
+- 🛢 PostgreSQL & MongoDB
+- ☁️ AWS & Cloud Infrastructure
 
-    passion:
-        "Building scalable products with clean architecture and exceptional user experiences."
-}
+> I believe great software is where performance, clean design, and great user experience come together.
 ---
 
 # 🛠 Tech Stack
