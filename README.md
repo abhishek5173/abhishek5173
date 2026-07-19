@@ -22,16 +22,51 @@ Passionate about clean UI, performance optimization, and solving real-world prob
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💼 Software Development Engineer with **1+ years** of experience
-- 🌱 Currently learning **DevOps, Docker, Kubernetes & AWS**
-- ⚛️ Building scalable apps using **React, Next.js, React Native & Node.js**
-- 📱 Exploring **AI-powered mobile experiences**
-- 🧠 Interested in System Design, Performance Optimization & Backend Architecture
-- 💬 Ask me about **React, Next.js, TypeScript, Prisma, Node.js, Express & PostgreSQL**
-- ⚡ Fun fact: I start side projects faster than I finish them 😅
+```javascript
+const abhishek = {
+    role: "Software Development Engineer",
 
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "React Native",
+        "Node.js"
+    ],
+
+    architecture: [
+        "REST APIs",
+        "JWT Authentication",
+        "Microservices",
+        "SSR",
+        "System Design"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+    ],
+
+    cloud: [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Vercel"
+    ],
+
+    currentlyLearning: [
+        "DevOps",
+        "CI/CD",
+        "Cloud Infrastructure"
+    ],
+
+    passion:
+        "Building scalable products with clean architecture and exceptional user experiences."
+}
 ---
 
 # 🛠 Tech Stack
@@ -106,19 +141,5 @@ Passionate about clean UI, performance optimization, and solving real-world prob
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5173&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhishek5173&theme=tokyonight&no-frame=true&row=1)
-
----
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=abhishek5173&label=Profile+Views&color=0e75b6&style=flat)
-
----
 
 > *"Code. Learn. Build. Repeat."* 🚀
