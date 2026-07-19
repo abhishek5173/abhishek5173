@@ -31,9 +31,9 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 ### Currently
 
 - 💼 Working as a **Software Development Engineer**
-- 🌱 Currently exploring AI integrations and building intelligent applications.
+- 🤖 Currently exploring AI integrations and building intelligent applications.
 - 📱 Building **React Native** applications
-- ⚡ Exploring **AI-powered products & intelligent user experiences**
+- 🏗️ Deepening my understanding of System Design and scalable backend architecture
 - 🔍 Constantly improving my understanding of **System Design** and backend architecture
 
 ### I enjoy working with
@@ -42,7 +42,7 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 - 📱 React Native
 - 🚀 Node.js, Express & Prisma
 - 🛢 PostgreSQL & MongoDB
-- ☁️ AWS & Cloud Infrastructure
+- ☁️ REST APIs & Cloud Infrastructure
 
 > I believe great software is where performance, clean design, and great user experience come together.
 ---
@@ -120,4 +120,8 @@ I enjoy turning ideas into polished products using modern JavaScript technologie
 
 </p>
 
-> *"Code. Learn. Build. Repeat."* 🚀
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek5173&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+> *"Building software that solves problems, not just passes tests."* 🚀
